@@ -10,7 +10,7 @@ Join us April 21st - April 23rd[^1] in New Kensington, PA for the official GMM 2
 
 To hear more about previous GAMERHOUSES, check out [this video](https://www.youtube.com/watch?v=V8j7p5bzxtY).
 
-[^1] Starting April 21st during the day, and ending April 23rd during the day, so 3 days and 2 nights.
+[^1]: Starting April 21st during the day, and ending April 23rd during the day, so 3 days and 2 nights.
 
 ## Staying at GAMERHOUSE
 
