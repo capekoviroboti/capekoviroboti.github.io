@@ -5,7 +5,8 @@ title: "GAMERHOUSE GMM 2023"
 Join us DATES in PLACE for the official GMM 2023 GAMERHOUSE. The current digs are pretty sweet, check out the place below:
 
 ![](/assets/pic2.webp)
-![](/assets/pic4.webp)
+
+![](/assets/pic3.webp)
 
 ![](/assets/pic1.webp)
 
