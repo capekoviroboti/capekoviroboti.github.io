@@ -14,10 +14,11 @@ To hear more about previous GAMERHOUSES, check out [this video](https://www.yout
 
 ## Staying at GAMERHOUSE
 
-If you want to stay at GAMERHOUSE, get in contact with Bitplumb (`@plumbdaddy:matrix.org`) on Matrix. The Out of Battery lobby is found [here](https://matrix.to/#/#oob-live-lobby:matrix.org).
+If you want to stay at GAMERHOUSE, get in contact with Bitplumb (`@plumbdaddy:matrix.org`) on Matrix.
+The [Out of Battery](https://outofbattery.live) lobby is found [here](https://matrix.to/#/#oob-live-lobby:matrix.org).
 
 The current price is 200 USD for the weekend.
-**AFTER YOU HAVE SPOKEN WITH BITPLUMB**, you can send money for the trip to the OoB Venmo:
+**AFTER YOU HAVE SPOKEN WITH BITPLUMB**, you can send money for the trip to [the OoB Venmo](https://venmo.com/u/Outofbatterylive):
 
 ![](/assets/oob-venmo.png)
 
